@@ -1,5 +1,5 @@
 # lab_pimg :hatched_chick:
-> Lista de exercícios da disciplina Processamento de Imagens e Computação Gráfica ~ [ Universidade Federal de Sergipe - UFS ]
+> Lista de exercícios da disciplina Processamento de Imagens ~ [ Universidade Federal de Sergipe - UFS ]
 
 
 
@@ -37,7 +37,7 @@
 15. Crie uma função chamada `convolve`, que recebe uma imagem de entrada e uma
 máscara com valores reais. Retorna a convolução da imagem de entrada pela máscara.
 
-###### Nesta e nas próximas questões, quando necessário extrapolar, use o valor do pixel mais próximo pertencente à borda.
+## Nesta e nas próximas questões, quando necessário extrapolar, use o valor do pixel mais próximo pertencente à borda.
 
 16. Crie uma função chamada `maskBlur` que retorna a máscara **1/16 * [[1, 2, 1], [2, 4, 2], [1, 2, 1]]**.
 
